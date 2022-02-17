@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundRectImageView">
+        <attr name="dora_cornerRadius" format="dimension|reference"/>
+    </declare-styleable>
+</resources>
